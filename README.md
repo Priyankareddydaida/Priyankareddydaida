@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyankareddydaida
+- 👋 Hi, I’m @Priyanka
 - 👀 I’m interested in ... HTML, CSS, JavaScript,React, Angular,Vue,React native
 
 - 🌱 I’m currently learning ...Vue,React native
