@@ -9,7 +9,7 @@ am not on the keyboard I am analyzing business and client needs, minimizing tech
 maximizing scalability and performance, focusing on user experience, and building meaningful
 relationships.
 </p>
-<h3>Open source projects</h3>
+
 
 <h3>🧰 ToolBox</h3>
 <p align="left">
